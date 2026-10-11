@@ -47,11 +47,6 @@
 			<version>3.1.1</version>
 		</dependency>
 
-		<!-- ================================================================
-             WEEK 1 - ACTIVITY 2
-             Add the springdoc-openapi dependency below this comment block.
-             The exact <dependency> block is given in the Week 1 lab guide.
-             ================================================================ -->
 	</dependencies>
 
 	<build>
